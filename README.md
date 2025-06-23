@@ -21,4 +21,5 @@ This project's implementation of Decision Trees is a basic yet effective illustr
 
  *OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/9ce2fca1-d6e3-4dbb-9077-19315c3a09e7)
  
